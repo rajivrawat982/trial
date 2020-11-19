@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <img src="img/about.jpg" alt="rdfvf"></img>
       </header>
     </div>
   );
